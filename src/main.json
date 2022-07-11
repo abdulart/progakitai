@@ -1,12 +1,17 @@
 {
   "pages": [
     "pages/index/main",
-    "pages/button/main",
     "pages/list/main",
     "pages/slide-view/main",
     "pages/input/main",
     "pages/slider/main",
     "pages/uploader/main",
+    "pages/universities/apply/main",
+    "pages/universities/requests/main",
+    "pages/homeworks/apply/main",
+    "pages/homeworks/requests/main",
+    "pages/aboutus/info/main",
+    "pages/aboutus/feedback/main",
 
     "pages/article/main",
     "pages/badge/main",
@@ -50,8 +55,8 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#ededed",
-    "navigationBarTitleText": "weui for mpvue",
+    "navigationBarBackgroundColor": "#f0f4fd",
+    "navigationBarTitleText": "Dong Zheng",
     "navigationBarTextStyle": "black"
   },
   "style": "v2"
